@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Point assign a random number to the variable n each time it is executed.
+ * main - Point assign random number to  variable n each time it is executed.
  *
  * Return: Always 0 (Success)
  */

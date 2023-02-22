@@ -5,9 +5,11 @@
  *
  * Return: Always 0 (Success)
  */
-int _putchar(char c);
+int _putchar(char _);
 int main(void)
 {
+	char _;
+
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');

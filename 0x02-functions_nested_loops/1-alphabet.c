@@ -3,6 +3,7 @@
 /**
  * main - point  function that prints the alphabet lowercase
  */
+int _putchar(char letters);
 void print_alphabet(void)
 {
 	char letters;
